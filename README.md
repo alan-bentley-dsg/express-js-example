@@ -1,0 +1,4 @@
+## scaffolding
+```
+$ npx express-generator
+```
